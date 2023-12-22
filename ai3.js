@@ -7,7 +7,7 @@ const openai = new OpenAIApi(configuration);
 
 module.exports = {
   config: {
-    name: "ai",
+    name: "ai3",
     version: "1.1",
     author: "kivv",
     countDown: 5,
